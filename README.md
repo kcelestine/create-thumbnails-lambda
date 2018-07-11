@@ -1,2 +1,20 @@
-# create-thumbnails-lambda
-This project shows how to use the [grunt-aws-lambda](https://www.npmjs.com/package/grunt-aws-lambda) plugin to develop and test your AWS Lambda function locally. It uses the CreateThumbnail function described in the [AWS Lambda documentation](http://docs.aws.amazon.com/lambda/latest/dg/walkthrough-s3-events-adminuser.html).
+# 0. Pre-req
+## AWS Account
+## AWS Cli
+## Git
+
+# 1. Setup
+## Configure AWS Cli
+## Clone Repository
+
+# 2. Build
+* Give yourself executable permissions to the build script
+`chmod u+x build.sh`
+* Run the build script
+` ./build.sh`
+
+# 3. Deploy
+* Give yourself executable permissions to the deploy script
+`chmod u+x deploy.sh`
+* Run the deploy script
+` ./deploy.sh`
