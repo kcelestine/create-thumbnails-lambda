@@ -1,16 +1,20 @@
 # 0. Pre-req
-## AWS Account
-## AWS Cli
-## Git
+* AWS Account
+* AWS Cli
+* Git
 
 # 1. Setup
-## Configure AWS Cli
-## Clone Repository
+* Create IAM Role
+* Configure AWS Cli
+* Clone Repository
 
 # 2. Build
 * Give yourself executable permissions to the build script
+
 `chmod u+x build.sh`
+
 * Run the build script
+
 ` ./build.sh`
 
 # 3. Deploy
